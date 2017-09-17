@@ -1,6 +1,6 @@
 {
   "name": "is-git-remote",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if a git remote repository exists",
   "main": "./dest/index.js",
   "scripts": {
